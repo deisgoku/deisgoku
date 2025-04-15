@@ -27,6 +27,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dedi-iskandar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://t.me/DeisGoku" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="30" width="30" /></a>
+  <a href="https://twitter.com/Deisgoku" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Top Tech Stack:</h3>
@@ -63,3 +66,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=deisgoku&show_icons=true&theme=radical)
 
 <br />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=<+Thanks+for+visit+/+>;<+in+Code+we+Connected+/+>;<+in+Code+we+Trust+/+>;<+Build+in+the+Future+of+Web3+/+>" alt="Typing SVG" />
+  </a>
+</p>
