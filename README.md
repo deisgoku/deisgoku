@@ -58,6 +58,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deisgoku" alt="deisgoku" /></a> </p>
 
 ---
+<h3 align="left">Live Crypto Price:</h3>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=bitcoin&label=BTC&logo=bitcoin"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=ethereum&label=ETH&logo=ethereum"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=binancecoin&label=BNB&logo=binance"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=solana&label=SOL&logo=solana"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=ripple&label=XRP&logo=ripple"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=dogecoin&label=DOGE&logo=dogecoin"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=the-open-network&label=TON&logo=ton"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=cardano&label=ADA&logo=cardano"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=avalanche-2&label=AVAX&logo=avalanche"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=polkadot&label=DOT&logo=polkadot"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=tron&label=TRX&logo=tron"></td>
+    <td><img src="https://img.shields.io/endpoint?url=https://crypto-price-on.vercel.app/api/prices?coin=chainlink&label=LINK&logo=chainlink"></td>
+  </tr>
+</table>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisgoku&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
