@@ -20,7 +20,7 @@
 - 👯 Kolaborasi dengan komunitas Telegram & Twiter X untuk edukasi Web3  
 - 🌱 Belajar: **Smart Contract, NFT, & Solana**  
 - 💬 Tanya aku soal: **Crypto Tesnet, Airdrop, Python, dan Git di Termux**  
-- 📫 Hubungi aku di: **dediiskandar2504@gmail.com**  
+- 📫 Hubungi aku di: **nagagoku2@gmail.com**  
 - ⚡ Fun fact: Aku ngoding sambil denger lagu mellow 😁
 
 <h3 align="left">Connect with me:</h3>
