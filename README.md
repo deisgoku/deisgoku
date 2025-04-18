@@ -121,6 +121,9 @@
   </table>
 </div>
 
+
+[![](https://img.shields.io/badge/Built%20my%20own%20Crypto%20Badges-Touch%20me!-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/deisgoku/crypto-price-readme)
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deisgoku&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
