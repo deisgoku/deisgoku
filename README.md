@@ -19,9 +19,9 @@
 - 🔭­ Sedang membangun: **Platform Web3 Portfolio Generator**  
 - 👯 Kolaborasi dengan komunitas Telegram & Twiter X untuk edukasi Web3  
 - 🌱 Belajar: **Smart Contract, NFT, & Solana**  
-- 💬 Tanya aku soal: **Crypto Tesnet, Airdrop, Python, dan Git di Termux**  
+- 💬 Tanya aku soal: **Crypto Tesnet, Airdrop, WEB3**  
 - 📫 Hubungi aku di: **nagagoku2@gmail.com**  
-- ⚡ Fun fact: Aku ngoding sambil denger lagu mellow 😁
+- ⚡ Fun fact: dimana airdrop JP disitu hati merasa senang 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
