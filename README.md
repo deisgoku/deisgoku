@@ -121,9 +121,7 @@
   </table>
 </div>
 
-<p align="left">
-<img src="https://crypto-price-on.vercel.app/api/card" />
-</p>
+
 
 
 
