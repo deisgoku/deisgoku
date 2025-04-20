@@ -16,7 +16,7 @@
 
 <h3 align="left">I'm currently working on :</h3>
 
-- 🔭­ Sedang membangun: **Platform Web3 Portfolio Generator**  
+- 🔭­ Sedang membangun: **Card & Badge Crypto Price untuk Readme.md**  
 - 👯 Kolaborasi dengan komunitas Telegram & Twiter X untuk edukasi Web3  
 - 🌱 Belajar: **Smart Contract, NFT, & Solana**  
 - 💬 Tanya aku soal: **Crypto Tesnet, Airdrop, WEB3**  
