@@ -126,6 +126,9 @@
 <img src="https://crypto-price-on.vercel.app/api/card?theme=dark" />
 </p>
 
+<p align="left">
+<img src="https://crypto-price-on.vercel.app/api/traffic-badge" />
+</p>
 
 [![](https://img.shields.io/badge/Built%20my%20own%20Crypto%20Badges-Touch%20me!-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/deisgoku/crypto-price-readme)
 
