@@ -64,8 +64,6 @@
 
 [![aurora](https://crypto-price-on.vercel.app/cards?user=deisgoku&model=aurora&theme=aurora&coin=6&category=meme-token)](https://crypto-price-on.vercel.app/unlock)
 
-[![Crypto Card](https://crypto-price-on.vercel.app/traffic-badge)](https://crypto-price-on.vercel.app/unlock)
-
 [![](https://img.shields.io/badge/Built%20my%20own%20Crypto%20Badges-Touch%20me!-orange?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/deisgoku/crypto-price-readme)
 
 ---
